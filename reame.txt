@@ -5,4 +5,8 @@ believe!!!
 Oh My God!!!!
 very interesting!!!
 create new branch!!
+<<<<<<< HEAD
 create branch
+=======
+create branch
+>>>>>>> feature
